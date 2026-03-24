@@ -14,14 +14,14 @@ authors = [
 ]
 keywords = ["poker", "reinforcement-learning", "gymnasium", "gym", "ai"]
 classifiers = [
-  "Development Status :: Alpha",
+  "Development Status :: 2 - Pre-Alpha",
   "Intended Audience :: Science/Research",
   "Topic :: Scientific/Engineering :: Artificial Intelligence",
   "Programming Language :: Python :: 3.10",
 ]
 dependencies = [
-  "gymnasium>=0.29",
-  "numpy>=1.24",
+  "gymnasium>=1.0",
+  "numpy>=2.0",
 ]
 
 [project.optional-dependencies]
